@@ -1,23 +1,23 @@
 # Day 1
 
 
-CPU의 레지스터는 회사마다 데이터를 처리하는 방식이 하드코딩 되어있다.
+CPU의 레지스터에는 데이터를 처리하는 방식이 제조사마다 다르게 하드코딩 되어있다.
 
 따라서 C언어는 CPU의 제품 종류, 세대가 달라졌을때 컴파일된 코드의 결과가 달라질수 있다.
 
-C언어의 경우에는 OS, H/W에 종속되어있다.
+그래서 우리는 C언어가 OS, H/W에 종속되어있다고 표현한다.   
 
-이런 문제를 해결하기 위해 나온것이 JAVA이다.
-JAVA는 JVM(JAVA Virtual Machine)이다.
+이런 문제를 해결하기 위해 나온언어가 JAVA이다.   
+JAVA는 JVM(JAVA Virtual Machine)을 통해 이 문제를 해결했다.
 
-JVM을 통해 JAVA는
-플랫폼, OS에게 독립되었다.
+JVM을 사용하게되면서 JAVA는 플랫폼, OS에게 독립되었다.
 (Write Once, Run Anywhere)
 
 ## 일반 프로그램과 JAVA 프로그램의 구조
 ___
 ![일반프로그램과 JAVA프로그램의 구조](https://yoojh9.github.io/images/jvm.png)
 ___
+
 이러한 JAVA의 장점 때문에 WEB에서 JAVA가 널리쓰이게 된것이다.
 
 
@@ -104,5 +104,3 @@ Servlet이란 JAVA로 구현한 CGI
 ## JSP
 jsp는 html문서에 java언어를 삽인한것
 Sevlet이란 java언어로 이루어진 웹프로그래밍 문서
-
-
