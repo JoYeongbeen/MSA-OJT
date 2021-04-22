@@ -121,6 +121,8 @@ https://velog.io/@hidaehyunlee/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EC%A0%84%EB
 2. 프로토콜이 데이터를 넘기는 과정
 
 3. 프로토콜의 각 종류의 특징에대해서 정리하기 (IP, TCP, UDP등등)
+   
+4. PDU가 중요한 이유와 자세한 구조
 
 ## 용어정리
 
