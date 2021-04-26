@@ -110,7 +110,7 @@ MAC 주소 값은 물리적으로 할당 받는데, 이 주소는 NIC(Network In
 ---
 
 ## 출처
-https://shlee0882.tistory.com/110?category=703874
+https://shlee0882.tistory.com/110?category=703874   
 https://velog.io/@hidaehyunlee/%EB%8D%B0%EC%9D%B4%ED%84%B0%EA%B0%80-%EC%A0%84%EB%8B%AC%EB%90%98%EB%8A%94-%EC%9B%90%EB%A6%AC-OSI-7%EA%B3%84%EC%B8%B5-%EB%AA%A8%EB%8D%B8%EA%B3%BC-TCPIP-%EB%AA%A8%EB%8D%B8
 
 
