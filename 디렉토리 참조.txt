@@ -1,0 +1,186 @@
+C:.
+├─tecadvertservice
+│  ├─.git
+│  │  ├─branches
+│  │  ├─hooks
+│  │  ├─logs
+│  │  │  └─refs
+│  │  │      ├─heads
+│  │  │      └─remotes
+│  │  │          └─origin
+│  │  ├─objects
+│  │  │  ├─info
+│  │  │  └─pack
+│  │  └─refs
+│  │      ├─heads
+│  │      ├─remotes
+│  │      │  └─origin
+│  │      └─tags
+│  ├─.mvn
+│  │  └─wrapper
+│  ├─.settings
+│  ├─src
+│  │  ├─main
+│  │  │  ├─java
+│  │  │  │  └─com
+│  │  │  │      └─lgcns
+│  │  │  │          └─tec
+│  │  │  │              └─spring
+│  │  │  │                  ├─controller
+│  │  │  │                  ├─dao
+│  │  │  │                  ├─exception
+│  │  │  │                  ├─interceptor
+│  │  │  │                  ├─kafka
+│  │  │  │                  │  ├─admin
+│  │  │  │                  │  ├─consumer
+│  │  │  │                  │  └─producer
+│  │  │  │                  ├─pojo
+│  │  │  │                  ├─utility
+│  │  │  │                  └─validator
+│  │  │  ├─resources
+│  │  │  └─webapp
+│  │  │      └─WEB-INF
+│  │  │          └─views
+│  │  └─test
+│  │      └─java
+│  │          └─com
+│  │              └─lgcns
+│  │                  └─tec
+│  │                      └─spring
+│  │                          └─utility
+│  └─target
+│      ├─classes
+│      │  └─com
+│      │      └─lgcns
+│      │          └─tec
+│      │              └─spring
+│      │                  ├─controller
+│      │                  ├─dao
+│      │                  ├─exception
+│      │                  ├─interceptor
+│      │                  ├─kafka
+│      │                  │  ├─admin
+│      │                  │  ├─consumer
+│      │                  │  └─producer
+│      │                  ├─pojo
+│      │                  ├─utility
+│      │                  └─validator
+│      └─test-classes
+│          └─com
+│              └─lgcns
+│                  └─tec
+│                      └─spring
+│                          └─utility
+├─teccommoncodeservice
+│  ├─.git
+│  │  ├─branches
+│  │  ├─hooks
+│  │  ├─logs
+│  │  │  └─refs
+│  │  │      ├─heads
+│  │  │      └─remotes
+│  │  │          └─origin
+│  │  ├─objects
+│  │  │  ├─info
+│  │  │  └─pack
+│  │  └─refs
+│  │      ├─heads
+│  │      ├─remotes
+│  │      │  └─origin
+│  │      └─tags
+│  ├─.mvn
+│  │  └─wrapper
+│  ├─.settings
+│  ├─bin
+│  │  ├─.mvn
+│  │  │  └─wrapper
+│  │  ├─.settings
+│  │  ├─src
+│  │  │  ├─main
+│  │  │  │  ├─java
+│  │  │  │  │  └─com
+│  │  │  │  │      └─lgcns
+│  │  │  │  │          └─tec
+│  │  │  │  │              └─spring
+│  │  │  │  │                  ├─composite
+│  │  │  │  │                  ├─controller
+│  │  │  │  │                  ├─dao
+│  │  │  │  │                  ├─exception
+│  │  │  │  │                  ├─kafka
+│  │  │  │  │                  │  ├─consumer
+│  │  │  │  │                  │  └─producer
+│  │  │  │  │                  ├─mongodb
+│  │  │  │  │                  ├─pojo
+│  │  │  │  │                  ├─redis
+│  │  │  │  │                  ├─rest
+│  │  │  │  │                  │  └─controller
+│  │  │  │  │                  ├─service
+│  │  │  │  │                  ├─utility
+│  │  │  │  │                  └─validator
+│  │  │  │  ├─resources
+│  │  │  │  └─webapp
+│  │  │  │      └─WEB-INF
+│  │  │  │          └─views
+│  │  │  └─test
+│  │  │      └─java
+│  │  │          └─com
+│  │  │              └─lgcns
+│  │  │                  └─tec
+│  │  │                      └─spring
+│  │  └─target
+│  ├─src
+│  │  ├─main
+│  │  │  ├─java
+│  │  │  │  └─com
+│  │  │  │      └─lgcns
+│  │  │  │          └─tec
+│  │  │  │              └─spring
+│  │  │  │                  ├─composite
+│  │  │  │                  ├─controller
+│  │  │  │                  ├─dao
+│  │  │  │                  ├─exception
+│  │  │  │                  ├─kafka
+│  │  │  │                  │  ├─consumer
+│  │  │  │                  │  └─producer
+│  │  │  │                  ├─mongodb
+│  │  │  │                  ├─pojo
+│  │  │  │                  ├─redis
+│  │  │  │                  ├─rest
+│  │  │  │                  │  └─controller
+│  │  │  │                  ├─service
+│  │  │  │                  ├─utility
+│  │  │  │                  └─validator
+│  │  │  ├─resources
+│  │  │  └─webapp
+│  │  │      └─WEB-INF
+│  │  │          └─views
+│  │  └─test
+│  │      └─java
+│  │          └─com
+│  │              └─lgcns
+│  │                  └─tec
+│  │                      └─spring
+│  └─target
+│      ├─classes
+│      │  └─com
+│      │      └─lgcns
+│      │          └─tec
+│      │              └─spring
+│      │                  ├─composite
+│      │                  ├─controller
+│      │                  ├─dao
+│      │                  ├─exception
+│      │                  ├─kafka
+│      │                  │  ├─consumer
+│      │                  │  └─producer
+│      │                  ├─mongodb
+│      │                  ├─pojo
+│      │                  ├─redis
+│      │                  ├─rest
+│      │                  │  └─controller
+│      │                  ├─service
+│      │                  ├─utility
+│      │                  └─validator
+│      └─test-classes
+│          └─com
+│
